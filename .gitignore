@@ -1,0 +1,4 @@
+build
+list
+node_modules
+*.log
